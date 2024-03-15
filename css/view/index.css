@@ -98,3 +98,9 @@ body{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+/* bg-flash_sale */
+.bg-flash_sale{
+  background-image: url('../../image/view/flash_sale_background_image.jpg');
+}
